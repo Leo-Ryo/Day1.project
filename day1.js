@@ -1,0 +1,12 @@
+let name = "Ryo";
+const age = 22;
+let isStudent = true;
+let scores = null;
+let temperature = undefined;
+console.log("Hello world!");
+console.log("My name is ", name);
+console.log("I am ", age, " years old.");
+let a = 5;
+let b = 10;
+console.log("The total is ", a + b);
+console.log("The multiplication is ", a * b);
